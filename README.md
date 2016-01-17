@@ -25,8 +25,6 @@ Here's a Screenshot of implemented user stories:
 <img src='6.png' title='Sixth' width='' alt='Video Walkthrough' />
 <img src='7.png' title='Seventh' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 Follow the tutorail on [YouTube](https://www.youtube.com/watch?v=0DR5JLZ2Qgg&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=5).
